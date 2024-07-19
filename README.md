@@ -1,4 +1,4 @@
-**Experienced Senior Analyst successfully delivering services on contract or project basis to clients in various industries and specialties. Demonstrated ability to provide expert advice and guidance, helping clients improve market position. Enthusiastic about providing professional support in different environments.**
+*Experienced Senior Analyst successfully delivering services on contract or project basis to clients in various industries and specialties. Demonstrated ability to provide expert advice and guidance, helping clients improve market position. Enthusiastic about providing professional support in different environments.*
 
 **Bengaluru, KA 560048 | +91 9206132640 | chitragarivenkatesh149@gmail.com**
 
