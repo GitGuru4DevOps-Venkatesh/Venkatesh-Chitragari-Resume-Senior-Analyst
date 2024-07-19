@@ -47,9 +47,9 @@ Experienced Senior Analyst successfully delivering services on contract or proje
 - Utilize AI tools for content creation and management.
 - Conduct deployment of applications using Kubernetes, Docker, Tomcat, and Nginx.
 
-# Your Project Title
+# Achievements
 
-### Senior Analyst Achievements
+### Senior Analyst
 
 **Company:** Fidelity National Financial Pvt Ltd. - Bengaluru, India  
 **Duration:** 05/2018 to 03/2023
