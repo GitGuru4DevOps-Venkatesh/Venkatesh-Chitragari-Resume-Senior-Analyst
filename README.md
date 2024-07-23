@@ -11,7 +11,7 @@
 
 ## Additional Information
 
-✅ ## Key Skills:
+✅ Key Skills:
 
 - **DevOps Tools:** Git, GitHub, GitBash, Linux, Jenkins, SonarQube, Nexus, Docker, Kubernetes, Tomcat, Nginx
 - **Cloud Platforms:** AWS (EC2, S3, Target Groups, Autoscaling, Load Balancer, VPC), GCP
@@ -21,13 +21,13 @@
 - **Digital Marketing:** SEO, Google Ads campaigns, social media marketing, LinkedIn page management
 - **Video Editing:** Basic video editing skills
 
-✔️ ### Projects:
+✔️ Projects:
 
 - **Kubernetes Deployment:** Successfully deployed applications from GitHub to Kubernetes clusters, ensuring high availability and scalability.
 - **Website Deployment:** Deployed websites using Dockerfile, S3 bucket, and GitHub actions, achieving streamlined and automated workflows.
 - **Social Media Management:** Managed LinkedIn company pages and created engaging content using AI tools and graphic design platforms.
 
-📃 ## Work History
+📃 Work History
 
 ### Freelancer
 **Digital DreamScapes Network – Remote**  
