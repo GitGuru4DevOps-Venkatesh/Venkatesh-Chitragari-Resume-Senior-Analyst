@@ -11,7 +11,7 @@
 
 ## Additional Information
 
-✅ ### Key Skills: ###
+✅ ## Key Skills:
 
 - **DevOps Tools:** Git, GitHub, GitBash, Linux, Jenkins, SonarQube, Nexus, Docker, Kubernetes, Tomcat, Nginx
 - **Cloud Platforms:** AWS (EC2, S3, Target Groups, Autoscaling, Load Balancer, VPC), GCP
