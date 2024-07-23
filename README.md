@@ -45,7 +45,7 @@
 - Utilize AI tools for content creation and management.
 - Conduct deployment of applications using Kubernetes, Docker, Tomcat, and Nginx.
 
-🌐 # Achievements
+🌐 Achievements
 
 ### Senior Analyst
 
@@ -69,7 +69,7 @@
 Nova College of Engineering & Technology - Vijayawada, India  
 04/2016
 
-💻 ## Skills
+💻 Skills
 
 - Project Management
 - Analytical Skills
